@@ -1,0 +1,142 @@
+header {
+    background-color: #faebd7;
+    text-align:center;
+    padding: 5px;
+}
+.lic a {
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:32px;
+}
+.a1{
+    border-radius: 35px;
+    text-decoration: none;
+    background-color: black;
+    color: whitesmoke;
+    padding: 16px 32px;
+}
+.a2{
+    font-size: 20px;
+    border-radius: 35px;
+    text-decoration: none;
+    background-color: black;
+    color: whitesmoke;
+    padding: 8px 16px;
+}
+.a3{
+    font-size: 20px;
+    border-radius: 35px;
+    text-decoration: none;
+    background-color: black;
+    color: whitesmoke;
+    padding: 8px 16px;
+}
+.a1:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+.a2:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+.a3:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+.div1 {
+    width: 250px;
+    margin-top: 24px;
+    padding: 6px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px hsla(0, 0%, 0%, 0.379);
+    background-color: khaki;
+}
+.div2 {
+    width: 250px;
+    margin-top: 24px;
+    padding: 6px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px hsla(0, 0%, 0%, 0.379);
+    background-color: bisque;
+}
+.div3 {
+    width: 250px;
+    margin-top: 24px;
+    padding: 6px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px hsla(0, 0%, 0%, 0.379);
+    background-color: khaki;
+}
+.div4{
+    width: 250px;
+    margin-top: 24px;
+    padding: 6px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px hsla(0, 0%, 0%, 0.379);
+    background-color: bisque;
+}
+.div1 img, .div2 img, .div3 img, .div4 img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.sectm {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+body {
+    background-color: aquamarine;
+}
+
+.qualite {
+    width: 80px;
+    margin-top: 24px;
+    padding: 6px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px hsla(0, 0%, 0%, 0.379);
+    background-color: lavender;
+    text-align: center;
+}
+
+.sectq {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+.hq {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.monprc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mesprj {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div9 {
+    width: 250px;
+    margin-top: 24px;
+    padding: 6px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 12px hsla(0, 0%, 0%, 0.379);
+    background-color: bisque;
+}
+.sctp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
